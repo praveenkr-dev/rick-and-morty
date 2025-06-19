@@ -4,8 +4,6 @@ A React-based application to explore characters from the Rick and Morty universe
 
 ---
 
----
-
 ## ✨ Features
 
 - Paginated results
@@ -30,8 +28,8 @@ A React-based application to explore characters from the Rick and Morty universe
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourname/rick-and-morty-explorer.git
-cd rick-and-morty-explorer
+git clone https://github.com/praveenkr-dev/rick-and-morty
+cd rick-and-morty
 ```
 
 ### 2. Install dependencies
